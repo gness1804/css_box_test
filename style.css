@@ -1,0 +1,26 @@
+.border-test {
+  border: 1px dotted red; /* temporary border toggled using jQuery */
+}
+
+h1 {
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.container {
+  /* CSS here... */
+}
+
+.example {
+  border: 1px solid black;
+  border-radius: 5px;
+  display: inline-block;
+  width: 40%;
+  /* other CSS here... */
+}
+
+.message {
+  font-style: italic;
+  text-align: center;
+  padding-top: 50px;
+}
